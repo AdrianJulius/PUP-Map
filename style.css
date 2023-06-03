@@ -1,0 +1,38 @@
+body {
+    background-color: antiquewhite;
+    color: rgb(143, 40, 40);
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+#logo {
+    float: left;
+    position: absolute
+    left: 20px;
+    top: 20px;
+}
+
+#PUPmap {
+    margin: auto;
+    display: block;
+}
+
+#availableImages {
+    position: absolute;
+    right: 20px;
+    top: 74px;
+    font-weight: bolder;
+    background-color: rgb(244, 218, 184);
+    padding: 10px;
+    width: 200px;
+
+}
+
+#availableImages ul {
+    line-height: 28px;
+}
